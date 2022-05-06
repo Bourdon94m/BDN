@@ -1,0 +1,22 @@
+
+
+body{
+    background: url();
+}
+
+
+h1{
+    text-align: center;
+    color: whitesmoke
+    
+}
+
+video {
+    z-index: -1;
+    width: 1920px;
+    height: 1080px;
+    object-fit: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
